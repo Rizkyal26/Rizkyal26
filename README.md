@@ -12,8 +12,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Stats
-<p align="left">
-<a href="https://github.com/rizkyal26">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=dapoi&count_private=true&include_all_commits=true&show_icons=true&theme=radical"/>
-</a>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyal26&show_icons=true&locale=en&layout=compact" alt="rizkyal26" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyal26&" alt="rizkyal26" /></p>
