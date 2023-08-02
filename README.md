@@ -16,8 +16,10 @@
 
 
 ### Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyal26&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizkyal26" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyal26&&theme=dark" alt="rizkyal26" /></p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkyal26&show_icons=true&theme=radical)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyal26&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizkyal26" /></p>
+
+<p><img align="left" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyal26&&theme=dark" alt="rizkyal26" /></p>
+
+
